@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    color: rgb(219, 207, 45);
+    text-shadow: -1px 0 black, 0 2px black, 2px 0 black, 0 -1px black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-image: url(background1.jpeg);
+    background-size: 140%;
+}
+body > h1 {
+    font-size: 50px;
+    margin: 0;
+    
+}
+body > p {
+    color: white;
+    padding-bottom: 0px;
+    
+}
+#placeToSee {
+    font-size: 40px;
+}
+
+img {
+    width: 250px;
+    height: 220px;
+}
